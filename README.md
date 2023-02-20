@@ -1,5 +1,5 @@
 # 👋
 
-* `learning` || rustlang
-* `projects` || static website template
-* `pronouns` || she/her
+* `learning` || ("rustlang", "svelte-js");
+* `projects` || public("a static website template") ^ private("samp injection-based cheat");
+* `pronouns` || "she/her";
